@@ -1,9 +1,5 @@
 // Convert a Positive Integer N to Octal
-// Input:  N = 10
-// Output: "1010"
 
-// Input: N = 7
-// Output: "111"
  
 //1st method:built-in javascript method
 function toBinary(n){
